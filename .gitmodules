@@ -1,0 +1,9 @@
+[submodule "react-bulma"]
+	path = react-bulma
+	url = https://github.com/harshanarayana/react-bulma.git
+[submodule "express-knex"]
+	path = express-knex
+	url = https://github.com/harshanarayana/express-knex.git
+[submodule "ng-material-bulma"]
+	path = ng-material-bulma
+	url = https://github.com/harshanarayana/ng-material-bulma.git
